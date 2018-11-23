@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">design_project</string>
+    <string name="button">Button</string>
+    <string name="navarathna">NAVARATHNA</string>
+
+    <array name="ListEntries">
+        <item>Carnival</item>
+        <item>Cherai Beach</item>
+        <item>Desi Cuppa</item>
+        <item>Edappally</item>
+        <item>Iftar Restaurant</item>
+        <item>Joy Alukas</item>
+        <item>Kalyan silks</item>
+        <item>Marine drive</item>
+        <item>Navaratna</item>
+        <item>Navya</item>
+        <item>Petrol pump</item>
+        <item>Seemas</item>
+    </array>
+</resources>
